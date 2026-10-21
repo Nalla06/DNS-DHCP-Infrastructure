@@ -80,7 +80,7 @@ Detailed documentation is organized into the following sections.
 | 08 | Final Operations Report | Summarize the architecture, completed work, findings, limitations, and lessons learned |
 
 #### Folder Structure
-
+```text
 Windows-Server-DNS-DHCP-Infrastructure/
 │
 ├── README.md
@@ -116,6 +116,7 @@ Windows-Server-DNS-DHCP-Infrastructure/
 │
 └── Diagrams/
 
+```
 ## Practical Skills Demonstrated
 
 ### Windows Server Administration
